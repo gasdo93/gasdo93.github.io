@@ -1,0 +1,21 @@
+div {
+    display: flex;
+    width: 800px;
+    border: solid blue 2px;
+    height: 80px;
+    margin: 30px;
+    padding: 10px;
+}
+p {
+    width: 60px;
+    height: 60px;
+    background: blue;
+    margin: 10px;
+    
+}
+.orange {
+    background: orange;
+}
+.purple {
+    background: purple;
+}
