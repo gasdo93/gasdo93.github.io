@@ -1,0 +1,122 @@
+div {
+  background: url(http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png);
+  background-size: cover;
+  height: 400px;
+  font-family: 'Abril Fatface', cursive;
+  background-position: center;
+}
+h1 {
+  font-size: 40px;
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 200px;
+}
+h2{
+  font-size: 80px;
+  position: absolute;
+  margin-top: 260px;
+  margin-left: 200px;
+}
+.fronted {
+  margin-left: 330px;
+  width: 600px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  margin-top: 70px;
+}
+ul {
+  font-family: 'Josefin Sans', sans-serif;
+  list-style-type: square;
+  margin-left: 350px;
+  width: 580px;
+  
+}
+.elso {
+  font-size: 20px;
+ }
+blockquote {
+  font-family: 'Abril Fatface', cursive;
+  background: #4F4F4F;
+  color: white;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 45px;
+  padding: 35px;
+  text-align: center;
+}
+.egy:before {
+  content: '“';
+  position: absolute;
+  margin-top: -70px;
+  margin-left: -60px;
+  font-size: 130px;
+}
+section {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 330px;
+  margin-top: 70px;
+  width: 600px
+}
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  margin-left: 330px;
+  width: 600px;
+  margin-top: 70px;
+  font-size: 23px;
+  margin-bottom: 0px;
+}
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  width: 600px;
+  margin-left: 330px;
+  margin-top: 55px;
+  font-size: 17px;
+}
+.b {
+  font-size: 20px;
+  margin-top: 50px;
+}
+.ketto {
+  text-align: left;
+  padding: 45px;
+}
+.ketto:before {
+  content: '“';
+  position: absolute;
+  font-size: 145px;
+  margin-top: -85px;
+  margin-left: -47px;
+}
+h4 {
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+  margin-left: 330px;
+  margin-top: 0px
+}
+.masodik {
+  font-size: 17px;
+}
+.harom {
+  text-align: left;
+  padding: 50px;
+}
+.harom:before {
+  content: '“';
+  position: absolute;
+  margin-top: -87px;
+  font-size: 145px;
+  margin-left: -50px;
+}
+#border {
+  margin-top: 80px;
+  border-top: solid black;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.harmadik {
+  margin-top: 0px;
+}
