@@ -1,0 +1,21 @@
+header {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+p {
+    border-bottom: solid black 2px;
+    padding: 10px;
+    margin: 0px;
+}
+div {
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    width: 270px;
+}
+.border {
+    border-bottom: none;
+}
+p:hover {
+    background: orange
+}
